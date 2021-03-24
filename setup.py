@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fin:
 setuptools.setup(
   name = "verification",
   version = "0.0.1",
-  author = "Liu Runzhan",
+  author = "liurunzhan",
   author_email = "liurunzhan@sina.com",
   description = "A Verilog Verification Script Library based on Python",
   long_description = long_description,
